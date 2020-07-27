@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Roman.
+
+I am a .NET backend developer. 
+That's it 🤔
+
 <!--
 **daredever/daredever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
